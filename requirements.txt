@@ -1,0 +1,6 @@
+fastapi~=0.111.1
+uvicorn
+pymongo
+python-dotenv~=1.0.1
+firebase-admin
+pydantic~=2.8.2
